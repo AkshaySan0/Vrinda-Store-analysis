@@ -1,5 +1,9 @@
 # 🛍️ Vrinda Store – 2022 Sales Analysis (Excel Dashboard)
 
+## 🖼️ Dashboard Preview
+
+<img width="1254" height="452" alt="000-1" src="https://github.com/user-attachments/assets/1b09385b-b06b-4f33-b847-37e816b9b527" />
+
 An end-to-end data analysis project in **Microsoft Excel**: data cleaning, pivot tables, pivot charts, and an interactive dashboard with slicers, built to understand Vrinda Store's 2022 sales performance.
 
 ---
@@ -95,11 +99,6 @@ Vrinda Store is an Indian online fashion retailer selling ethnic and western wea
 3. Cut returns and cancellations (~7% of order value) with better size guides and product descriptions.
 4. Prioritize inventory of **Sets and Kurtas** in sizes **M, L, XL**.
 5. Reduce reliance on the top 3 channels by growing Ajio and Meesho.
-
-## 🖼️ Dashboard Preview
-
-<img width="1254" height="452" alt="000-1" src="https://github.com/user-attachments/assets/1b09385b-b06b-4f33-b847-37e816b9b527" />
-
 
 ## 📝 Notes
 
