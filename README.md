@@ -113,8 +113,7 @@ Vrinda Store is an Indian online fashion retailer selling ethnic and western wea
 4. Use the slicers to filter by month, channel, and more.
 
 ## 👤 Author
-
-**Your Name**
+Akshay Nag
 [LinkedIn](https://www.linkedin.com/in/akshay-nag-459298300/) · [GitHub](https://github.com/AkshaySan0)
 
 ---
